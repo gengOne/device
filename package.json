@@ -1,0 +1,23 @@
+{
+  "name": "device",
+  "version": "1.0.0",
+  "description": "devices display",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gengOne/device.git"
+  },
+  "author": "yinhuaigeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gengOne/device/issues"
+  },
+  "homepage": "https://github.com/gengOne/device#readme"
+}
